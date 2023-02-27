@@ -1,0 +1,33 @@
+Quality Attributes
+
+- Scaleability
+	- Able to support growth without having to change code
+	- Can scale up the system
+		- There is a limit to processing power
+	- Can scale out the system
+		- Better for redundancy
+		- Load balanced
+- Manageability
+	- Know whats going on with the system
+	- Observability to understand and predict issues
+	- System should be able to report its own problems
+		- better than support having to find the problems
+		- Can react before the users find out
+- Modularity
+	- Minimise the effort to maintain and change the application
+	- Built with small and well defined building blocks
+	- Adaptable to changes in tech
+		- Isolated data access meaning you can change the backend database
+		- Frontend might be able to be replaced with a new one
+- Extensibility
+	- Functionality can be added without having to modify existing code
+	- Open / Closed principle
+	- Plugin framework, ports and adapters
+	- Strategy pattern
+- Testability
+	- How easy it is to test
+	- Manual vs automated testing
+		- Go for more automated testing
+	- Unit testing is super important
+	- Integration tests
+	- Design is important to acheive testability

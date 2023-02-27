@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e2ad4f3ff0bb0296","x":-432,"y":-319,"width":250,"height":60,"type":"text","text":"Understand the Systems Requirements"},
+		{"id":"593728a2d5c4d33a","x":-432,"y":-236,"width":250,"height":60,"type":"text","text":"Understand the Non Functional Requirements"},
+		{"id":"3afeafc867074559","x":-432,"y":-150,"width":250,"height":60,"type":"text","text":"Map the Components"},
+		{"id":"796c1f3ab6110edb","x":-432,"y":-66,"width":250,"height":60,"type":"text","text":"Select the Technology Stack"},
+		{"id":"ddf10e73d012c797","x":-432,"y":21,"width":250,"height":60,"type":"text","text":"Design the Architecture"},
+		{"id":"350bbe2ee9a453d6","x":-432,"y":111,"width":250,"height":60,"type":"text","text":"Write Architecture Document"},
+		{"id":"586df73c742507a4","x":-432,"y":199,"width":250,"height":60,"type":"text","text":"Support the team"}
+	],
+	"edges":[]
+}
